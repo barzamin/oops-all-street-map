@@ -1,0 +1,12 @@
+[package]
+name = "no-maps-no-masters"
+version = "0.1.0"
+authors = ["erin"]
+edition = "2018"
+
+[dependencies]
+osmpbfreader = "0.14.0"
+anyhow = "1.0"
+ron = "0.6"
+maud = "0.22"
+serde_json = "1.0"
